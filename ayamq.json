@@ -1,0 +1,109 @@
+{
+    "menu": [
+        {
+            "kategori": "ayam",
+            "nama": "Meat Lover",
+            "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
+            "harga": 49500,
+            "gambar": "ayam1.jpg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Super ayam",
+            "deskripsi": "Daging ayam dan sapi asap, daging sapi cincang, burger sapi, jamur, paprika merah dan paprika hijau.",
+            "harga": 49500,
+            "gambar": "ayam2.jpg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "ayam Melt",
+            "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
+            "harga": 49500,
+            "gambar": "ayam3.jpeg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "American Favourite",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 49500,
+            "gambar": "ayam4.jpg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Beef Spaghetti",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 43000,
+            "gambar": "ayam5.jpg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Beef Lasagna",
+            "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
+            "harga": 48000,
+            "gambar": "ayam6.jpg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Creamy Beef Fettuccine",
+            "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
+            "harga": 43000,
+            "gambar": "ayam7.jpg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Meatballs Beef Mushroom",
+            "deskripsi": "Bola daging sapi dengan saus daging sapi cincang dan jamur.",
+            "harga": 40000,
+            "gambar": "ayam8.jpg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Black Pepper Chicken",
+            "deskripsi": "Ayam dengan saus lada hitam.",
+            "harga": 40000,
+            "gambar": "ayam9.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Choco Mint",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "minuman1.jpeg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Toffee Coffee",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "minuman2.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Green Tea Shake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "minuman3.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Strawberry Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "minuman4.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Chocolate Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "minuman5.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Pandan Milkshake",
+            "deskripsi": "",
+            "harga": 25000,
+            "gambar": "minuman6.jpg"
+        }
+    ]
+}
